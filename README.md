@@ -34,7 +34,7 @@ Worked on Python-based test automation, camera integration, image processing, im
 
 ## Web Resume
 
-🌐 [View Resume Online](./resume.html)
+🌐 [View Resume Online](./index.html)
 
 ## Connect
 
